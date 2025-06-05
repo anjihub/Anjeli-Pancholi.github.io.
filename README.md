@@ -1,8 +1,7 @@
 # anjihub.github.io.
 Anjeli Pancholi apancholi2002@gmail.com
-My GitHub account is being used for college and practice purposes at the moment. I have plans to create projects in the future.
-The repository I just created is a practice assignment.
-I cloned the repository by going to GitHub desktop, opened the repository I created, and went to file > clone repository.
+Welcome to my GitHub! Currently, I’m using this space for college coursework and practice projects, with plans to develop more cybersecurity and forensic analysis tools in the future.
+My repository includes assignments focused on networking, Python scripting, and Linux security configurations as I strengthen my expertise in digital forensics and law enforcement cybersecurity.
 
 # About Me
 ## My Interests
